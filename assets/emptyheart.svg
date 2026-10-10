@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 128" shape-rendering="crispEdges">
+  <title>Grey Pixel Heart Outline Only</title>
+
+  <!-- Top outline -->
+  <rect x="16" y="0" width="48" height="16" fill="#5f6368"/>
+  <rect x="80" y="0" width="48" height="16" fill="#5f6368"/>
+
+  <!-- Row 2 outline -->
+  <rect x="0" y="16" width="32" height="16" fill="#5f6368"/>
+  <rect x="64" y="16" width="16" height="16" fill="#5f6368"/>
+  <rect x="112" y="16" width="32" height="16" fill="#5f6368"/>
+
+  <!-- Side outline -->
+  <rect x="0" y="32" width="16" height="16" fill="#5f6368"/>
+  <rect x="128" y="32" width="16" height="16" fill="#5f6368"/>
+
+  <rect x="0" y="48" width="16" height="16" fill="#5f6368"/>
+  <rect x="128" y="48" width="16" height="16" fill="#5f6368"/>
+
+  <!-- Lower outline -->
+  <rect x="16" y="64" width="16" height="16" fill="#5f6368"/>
+  <rect x="112" y="64" width="16" height="16" fill="#5f6368"/>
+
+  <rect x="32" y="80" width="16" height="16" fill="#5f6368"/>
+  <rect x="96" y="80" width="16" height="16" fill="#5f6368"/>
+
+  <rect x="48" y="96" width="16" height="16" fill="#5f6368"/>
+  <rect x="80" y="96" width="16" height="16" fill="#5f6368"/>
+
+  <!-- Bottom point -->
+  <rect x="64" y="112" width="16" height="16" fill="#5f6368"/>
+</svg>

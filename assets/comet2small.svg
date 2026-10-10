@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 64" shape-rendering="crispEdges">
+  <title>Small Falling Rock 01</title>
+
+  <!-- Upward streaks -->
+  <rect x="18" y="4" width="4" height="18" fill="#646873" opacity="0.55"/>
+  <rect x="10" y="12" width="4" height="12" fill="#4f545f" opacity="0.45"/>
+
+  <!-- Rock -->
+  <rect x="16" y="28" width="12" height="4" fill="#8d7964"/>
+  <rect x="12" y="32" width="20" height="8" fill="#9b856d"/>
+  <rect x="8" y="40" width="28" height="8" fill="#7c6957"/>
+  <rect x="12" y="48" width="20" height="8" fill="#524337"/>
+  <rect x="18" y="56" width="10" height="4" fill="#3e332b"/>
+
+  <!-- Jagged bits -->
+  <rect x="4" y="44" width="8" height="4" fill="#7c6957"/>
+  <rect x="32" y="40" width="4" height="8" fill="#685747"/>
+
+  <!-- Highlights -->
+  <rect x="16" y="32" width="8" height="4" fill="#b6a088"/>
+
+  <!-- Crater -->
+  <rect x="24" y="42" width="6" height="6" fill="#40362f"/>
+</svg>

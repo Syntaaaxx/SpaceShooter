@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 80" shape-rendering="crispEdges">
+  <title>Medium Falling Rock 01</title>
+
+  <!-- Upward streaks -->
+  <rect x="26" y="4" width="4" height="24" fill="#747985" opacity="0.55"/>
+  <rect x="16" y="12" width="4" height="18" fill="#5a606b" opacity="0.5"/>
+  <rect x="36" y="18" width="4" height="14" fill="#858a93" opacity="0.4"/>
+
+  <!-- Rock -->
+  <rect x="24" y="32" width="14" height="4" fill="#9c7450"/>
+  <rect x="18" y="36" width="26" height="8" fill="#8c6648"/>
+  <rect x="14" y="44" width="34" height="10" fill="#7b573e"/>
+  <rect x="10" y="54" width="36" height="8" fill="#6a4935"/>
+  <rect x="16" y="62" width="28" height="8" fill="#563b2c"/>
+  <rect x="24" y="70" width="14" height="4" fill="#30231d"/>
+
+  <!-- Protrusions -->
+  <rect x="8" y="50" width="8" height="8" fill="#6a4935"/>
+  <rect x="44" y="44" width="8" height="8" fill="#7b573e"/>
+
+  <!-- Highlights -->
+  <rect x="20" y="38" width="10" height="4" fill="#b48b64"/>
+  <rect x="18" y="46" width="8" height="4" fill="#a9825e"/>
+
+  <!-- Craters -->
+  <rect x="34" y="50" width="8" height="8" fill="#3f2b22"/>
+  <rect x="22" y="60" width="4" height="4" fill="#36251e"/>
+</svg>

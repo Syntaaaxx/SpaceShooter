@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 64" shape-rendering="crispEdges">
+  <title>White Dash Swoosh Frame 3</title>
+
+  <!-- Fading spread-out streaks -->
+  <rect x="8" y="16" width="28" height="8" fill="#ffffff" opacity="0.2"/>
+  <rect x="44" y="16" width="24" height="8" fill="#ffffff" opacity="0.3"/>
+  <rect x="84" y="16" width="28" height="8" fill="#ffffff" opacity="0.35"/>
+
+  <rect x="16" y="32" width="36" height="8" fill="#ffffff" opacity="0.3"/>
+  <rect x="60" y="32" width="32" height="8" fill="#ffffff" opacity="0.4"/>
+  <rect x="100" y="32" width="20" height="8" fill="#ffffff" opacity="0.45"/>
+
+  <rect x="28" y="48" width="24" height="8" fill="#ffffff" opacity="0.18"/>
+  <rect x="72" y="48" width="24" height="8" fill="#ffffff" opacity="0.28"/>
+  <rect x="104" y="48" width="12" height="8" fill="#ffffff" opacity="0.35"/>
+
+  <!-- Tiny pixel remnants -->
+  <rect x="36" y="4" width="8" height="8" fill="#ffffff" opacity="0.18"/>
+  <rect x="80" y="4" width="8" height="8" fill="#ffffff" opacity="0.22"/>
+  <rect x="12" y="52" width="8" height="8" fill="#ffffff" opacity="0.15"/>
+</svg>

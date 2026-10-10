@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 128" shape-rendering="crispEdges">
+  <title>Huge Falling Rock 01</title>
+
+  <!-- Upward streaks -->
+  <rect x="54" y="4" width="6" height="40" fill="#646873" opacity="0.55"/>
+  <rect x="36" y="14" width="6" height="32" fill="#4f545f" opacity="0.48"/>
+  <rect x="74" y="18" width="6" height="36" fill="#747985" opacity="0.42"/>
+  <rect x="22" y="32" width="5" height="20" fill="#393e48" opacity="0.4"/>
+  <rect x="88" y="34" width="5" height="16" fill="#858a93" opacity="0.35"/>
+
+  <!-- Huge uneven rock -->
+  <rect x="46" y="50" width="32" height="6" fill="#8d7964"/>
+  <rect x="34" y="56" width="52" height="12" fill="#9b856d"/>
+  <rect x="26" y="68" width="66" height="16" fill="#7c6957"/>
+  <rect x="20" y="84" width="68" height="12" fill="#685747"/>
+  <rect x="28" y="96" width="56" height="12" fill="#524337"/>
+  <rect x="40" y="108" width="34" height="10" fill="#3e332b"/>
+  <rect x="50" y="118" width="18" height="5" fill="#29211c"/>
+
+  <!-- Jagged silhouette -->
+  <rect x="18" y="72" width="10" height="12" fill="#7c6957"/>
+  <rect x="12" y="84" width="10" height="10" fill="#685747"/>
+  <rect x="88" y="76" width="12" height="12" fill="#685747"/>
+  <rect x="82" y="96" width="10" height="8" fill="#524337"/>
+  <rect x="34" y="48" width="12" height="8" fill="#8d7964"/>
+  <rect x="72" y="48" width="10" height="8" fill="#8d7964"/>
+
+  <!-- Highlights -->
+  <rect x="38" y="58" width="18" height="6" fill="#b6a088"/>
+  <rect x="30" y="70" width="14" height="6" fill="#a38d74"/>
+  <rect x="54" y="70" width="14" height="6" fill="#92806b"/>
+
+  <!-- Craters -->
+  <rect x="66" y="74" width="12" height="12" fill="#40362f"/>
+  <rect x="40" y="86" width="12" height="12" fill="#4b3e34"/>
+  <rect x="74" y="98" width="6" height="6" fill="#312923"/>
+  <rect x="30" y="102" width="6" height="6" fill="#312923"/>
+</svg>

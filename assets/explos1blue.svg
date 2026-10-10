@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" shape-rendering="crispEdges">
+  <title>Blue Explosion Frame 1</title>
+
+  <!-- Initial electric burst -->
+  <rect x="40" y="16" width="16" height="8" fill="#7df9ff"/>
+  <rect x="32" y="24" width="32" height="8" fill="#4ddcff"/>
+  <rect x="24" y="32" width="48" height="16" fill="#1ca7ff"/>
+  <rect x="32" y="48" width="32" height="16" fill="#006dff"/>
+  <rect x="40" y="64" width="16" height="8" fill="#0047b8"/>
+
+  <!-- Bright core -->
+  <rect x="40" y="36" width="16" height="16" fill="#e8ffff"/>
+  <rect x="32" y="44" width="32" height="8" fill="#a8f6ff"/>
+
+  <!-- Blue sparks -->
+  <rect x="24" y="20" width="8" height="8" fill="#7df9ff"/>
+  <rect x="64" y="24" width="8" height="8" fill="#4ddcff"/>
+  <rect x="24" y="64" width="8" height="8" fill="#006dff"/>
+  <rect x="64" y="60" width="8" height="8" fill="#003fa3"/>
+
+  <!-- Smoke / energy haze -->
+  <rect x="40" y="8" width="8" height="8" fill="#506b88"/>
+  <rect x="56" y="72" width="8" height="8" fill="#3c526b"/>
+</svg>

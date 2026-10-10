@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" shape-rendering="crispEdges">
+  <title>Comet Explosion Frame 3</title>
+
+  <!-- Fading outer smoke -->
+  <rect x="32" y="8" width="16" height="16" fill="#777777"/>
+  <rect x="56" y="16" width="16" height="16" fill="#666666"/>
+  <rect x="16" y="32" width="16" height="16" fill="#6b6b6b"/>
+  <rect x="72" y="32" width="16" height="16" fill="#555555"/>
+  <rect x="24" y="64" width="16" height="16" fill="#555555"/>
+  <rect x="56" y="72" width="16" height="16" fill="#4a4a4a"/>
+
+  <!-- Remaining fire -->
+  <rect x="32" y="32" width="32" height="8" fill="#ff8a24"/>
+  <rect x="24" y="40" width="48" height="16" fill="#ff5a1f"/>
+  <rect x="32" y="56" width="32" height="8" fill="#c9351a"/>
+
+  <!-- Dim core -->
+  <rect x="40" y="40" width="16" height="16" fill="#ffcc3d"/>
+  <rect x="48" y="48" width="8" height="8" fill="#fff2a6"/>
+
+  <!-- Rock debris -->
+  <rect x="8" y="24" width="8" height="8" fill="#4a3528"/>
+  <rect x="80" y="24" width="8" height="8" fill="#5a3f2c"/>
+  <rect x="8" y="72" width="8" height="8" fill="#3f2d22"/>
+  <rect x="80" y="72" width="8" height="8" fill="#3f2d22"/>
+  <rect x="40" y="80" width="8" height="8" fill="#5a3f2c"/>
+  <rect x="64" y="56" width="8" height="8" fill="#4a3528"/>
+
+  <!-- Small sparks -->
+  <rect x="48" y="16" width="8" height="8" fill="#ffcc3d"/>
+  <rect x="16" y="56" width="8" height="8" fill="#ff8a24"/>
+  <rect x="72" y="56" width="8" height="8" fill="#ff8a24"/>
+</svg>
